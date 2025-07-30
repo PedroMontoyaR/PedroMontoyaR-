@@ -8,6 +8,7 @@ Soy tecnólogo en Gestión de Sistemas de Información y actualmente me estoy fo
 - CSS3
 - JavaScript
 - Sass
+- Bootstrap
 - Responsive Design (Mobile First)
 - Git y GitHub
 - Visual Studio Code
@@ -35,7 +36,8 @@ I'm an Information Systems Management technologist currently training to become 
 - HTML5  
 - CSS3  
 - JavaScript  
-- Sass  
+- Sass
+- Bootstrap
 - Responsive Design (Mobile First)  
 - Git and GitHub  
 - Visual Studio Code
